@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"or the dark side" :)
 Use the left arrow to go back!
